@@ -1,68 +1,18 @@
-🔥 Welcome to Samir Medhat's Flutter World! 🔥  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Always+Learning+%26+Building)](https://github.com/samir-227)
+# 💫 About Me:
+<br>Flutter Developer with hands-on experience shipping production apps to Google Play — including a real-time roadside assistance platform for the UAE market and a food-truck discovery app with a full user/owner ecosystem.<br>I build cross-platform apps end-to-end: Clean Architecture, Cubit/BLoC state management, dependency injection with GetIt, and integration with Firebase, Supabase, and REST APIs. I care about code that's maintainable long after I ship it, not just code that works on day one.<br>Comfortable working with freelance clients, cross-functional teams, and international stakeholders, with clear written English and a habit of documenting and testing what I build.<br>Currently exploring new opportunities as a Flutter Developer — open to full-time, freelance, remote, or on-site roles.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samir-medhat-elnawawy-a321b920a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Samir Medhat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samermedhat227@gmail.com) 
+
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=samir-227&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=samir-227&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=samir-227&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=samir-227&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 About Me  
-👋 I'm **Samir Medhat**, a passionate **Flutter Developer** with a background in Electrical & Communication Engineering.  
-🚀 Currently learning everything about **Design Patterns** and **Solid Princeples** to take my skills to the next level.  
-🛠️ Love building clean, scalable apps following **Clean Architecture** principles.  
-📝 Sharing tech content and journey on [LinkedIn](https://www.linkedin.com/in/samir-medhat-a321b920a/).  
-💬  Always happy to talk Flutter, Dart and App Architecture, so Feel free to ask me about mobile dev in general!  
-
----
-
-## ⚡ Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Dart-02569B?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/API-REST-6E6E6E?style=flat&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir-227&show_icons=true&theme=tokyonight" alt="Samir's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-227&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-## 🚀 GitHub Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=samir-227&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/samir-medhat-a321b920a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:samermedhat227@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/samir-227">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <em>Keep coding, stay curious, and build something amazing!</em> ⚡
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
